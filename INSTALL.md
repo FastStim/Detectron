@@ -54,7 +54,7 @@ Clone the Detectron repository:
 
 ```
 # DETECTRON=/path/to/clone/detectron
-git clone https://github.com/facebookresearch/detectron $DETECTRON
+git clone https://github.com/FastStim/detectron $DETECTRON
 ```
 
 Install Python dependencies:
